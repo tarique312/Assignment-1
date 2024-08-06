@@ -1,0 +1,16 @@
+.first-card {
+  height: 6.5rem;
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bottom span {
+  font-size: 13px;
+  color: #1ee61e;
+}

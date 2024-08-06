@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(25, 22, 22);
+  color: white;
+}
+
+.card-text {
+  font-size: 10px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+.col {
+  border-radius: 5px;
+  background-color: "#1f1f1f";
+}
+
+.card {
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+.sec-card {
+  height: 10.2rem;
+}

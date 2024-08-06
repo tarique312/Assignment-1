@@ -1,0 +1,23 @@
+table tr {
+  border-bottom: 1px rgba(255, 255, 255, 0.196) solid;
+}
+
+thead tr td {
+  font-size: 12px;
+}
+
+tbody tr td {
+  font-size: 14px;
+}
+
+td {
+  padding: 5px 0;
+}
+
+.feedback p {
+  font-size: 12px;
+}
+
+.rating {
+  font-size: 13px;
+}

@@ -1,0 +1,13 @@
+.third-card {
+  height: 15rem;
+}
+
+.scrollable-container {
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollable-container::-webkit-scrollbar {
+  display: none;
+}
